@@ -1,0 +1,29 @@
+@media (max-width: 600px) {
+
+.cat-5{
+	background-color: #FFFFF0;
+	color: black;
+	width: 100%;
+	height: 1207px;
+	margin: 0 auto;
+	text-align: center;}
+
+.gat{
+    width: 100%;
+    margin-bottom: 50px;
+    display:block;
+    }
+
+ .cat-3 p{
+    text-align: center;
+    width: 450px
+    margin: 0 auto;
+ }
+
+ .cat-4 p{
+   text-align: center;
+    width: 450px
+    margin: 0 auto;
+ }
+  }
+
